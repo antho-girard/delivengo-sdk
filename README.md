@@ -1,3 +1,6 @@
+| :warning: IMPORTANT : This repository is no longer maintained. |
+| --- |
+
 # Delivengo PHP SDK
 
 ## Requirements
